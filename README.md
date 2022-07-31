@@ -1,26 +1,23 @@
 <p align="center">
 <img src="https://travis-ci.org/klugjo/hexo-autolinker.svg?branch=master">
-<img src="https://img.shields.io/amo/stars/youtube?color=dd&label=Rate&logo=ss&logoColor=ss">
 <img src="https://img.shields.io/amo/v/asd?label=version">
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
-<img src="https://img.shields.io/crates/d/youtube">
  </p>
 
 # AniMind
 <img src="https://cdn.icon-icons.com/icons2/1736/PNG/512/4043233-anime-away-face-no-nobody-spirited_113254.png" alt="drawing" width="100"/>
 
-____
-### `Description` 
-**У вас всегда так много дел, что на просмотр любимых аниме не остается ни секунды?** Тогда наше приложение вам поможет. С его помощью вы с легкостью сможете создавать списки с тем что вы хотите посмотреть, сможете настроить уведомления на день и час запланированного просмотра. В приложении используется большая база аниме, поэтому вы всегда с легкостью сможете найти все что вам необходимо. База аниме хранится в [Anime API](https://kitsu.docs.apiary.io/).
-____
-### `Installation`
-Так как проект является демонстарционным то он отсутствует в [GoglePlay](dfdf).
-Для его установки вам необхадимо будет локально скоприровать репозиторий проекта.
-После надо будет открыть проект при помощи вашего IDE.
-Если вы хотите устанвоить его себе на девайс, то необхадимо будет для отладки подключить и настроить ваше персональное устройство.
-Для запуска в эмуляторе дополнительных действий не требуется.
-____
-### `Usage`
+
+## Description 
+**Are you so busy that you never have a second to watch your favorite anime?** Then our app is for you! With it, you can easily create lists of what you want to watch, you can set notifications for scheduled viewing. The application uses a vast database of anime, so you can always find something to your liking. The anime database is stored in [Anime API](https://kitsu.docs.apiary.io/).
+
+
+## Installation
+1. Copy the project repository locally.
+2. Open the project using your IDE.
+3. If you want to install the app on your device, then connect and configure your personal device for debugging. No additional steps are required to run in the emulator.
+
+## Usage
 В главном меню ищем нужное нам произведение. Добавляем его в избранное, при необходимости можем удалить его. Так же возможен просмотр списка избранное.
 <p align="center">
   <kbd> <img src="ScreanShots\demo.gif" alt="drawing" width="300" style="border-radius:10px"\></kbd>
@@ -38,11 +35,11 @@ ____
 
 * При необходимости можем удалить его. 
 * Так же возможен просмотр списка избранное.
-____
-### `Contributing`
+
+
+## Contributing
 Проект выполнен студетнами 3 курса 12 и 13 группы:
 
 * Менеджер проекта, верстка, взаимодействие между операциями и фрагментами, обротка событий пользователя и системы - <b>Злата Мигас</b>
 * Создание и взаимодействие с БД, API - <b>Екатерина Ермолаева</b>
 * Инициализация и вызов внешних уведомлений, тестирование и сопровождение, организация документации - <b>Роман Доскоч</b>
-____
