@@ -13,12 +13,13 @@
 3. If you want to install the app on your device, then connect and configure your personal device for debugging. No additional steps are required to run in the emulator.
 
 ## Usage
-В главном меню ищем нужное нам произведение. Кликаем на нужный тайтл. В появившеся окне подробного описания нажимаем добавить в избранное (кнопка звезды) и устанавливаем напоминание (колокольчик). Также возможен просмотр и изменение списка избранного.
 In the main menu search and filter anime you are interested in. Click on the desired title. In the detailed description window, click add to favorites (star) and set a reminder (bell). It is also possible to view and change the list of favorites.
- <p align="center">
-  <kbd> <img src="ScreanShots\demo.gif" alt="drawing" width="300" style="border-radius:10px"\></kbd>
-  <kbd> <img src="ScreanShots\home.jpg" alt="drawing" width="300" style="border-radius:10px"\></kbd> 
-  <kbd> <img src="ScreanShots\preview.jpg" alt="drawing" width="300" style="border-radius:10px"\></kbd> 
+
+
+<p align="center">
+  <kbd> <img src="https://github.com/zlatamigas/AniMind/blob/screenshots/ScreanShots/home.jpg" alt="drawing" width="300" style="border-radius:10px"\></kbd> 
+  <kbd> <img src="https://github.com/zlatamigas/AniMind/blob/screenshots/ScreanShots/\preview.jpg" alt="drawing" width="300" style="border-radius:10px"\></kbd> 
+  <kbd> <img src="https://github.com/zlatamigas/AniMind/blob/screenshots/ScreanShots/demo.gif" alt="drawing" width="300" style="border-radius:10px"\></kbd>
 </p>
 
 
